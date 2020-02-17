@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">INTFBSignInComponent</string>
+    <string name="facebook_app_id">779205899214208</string>
+    <string name="fb_login_protocol_scheme">fb779205899214208</string>
+
+</resources>
